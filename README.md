@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">¡Hola! Soy Mariana Portela, una estudiante de VII semestre de ingeniería de software en Armenia, Quindío. Me entusiasma profundizar en el fascinante mundo del desarrollo de software, explorando tanto las bases como las tecnologías más avanzadas. Disfruto enfrentando desafíos y aprendiendo de cada experiencia para mejorar mis habilidades. Además, siempre estoy abierta a nuevos conocimientos y oportunidades que me permitan crecer tanto académica como profesionalmente. ¡Espero emocionada lo que el futuro tiene reservado en esta apasionante travesía de la ingeniería de software!</p>
+<p align="left">¡Hola! Soy Mariana Portela, estudiante de VII semestre de ingeniería de software en la Institución Universitaria EAM en Armenia, Quindío. Me entusiasma profundizar en el fascinante mundo del desarrollo de software, explorando tanto las bases como las tecnologías más avanzadas. Disfruto enfrentando desafíos y aprendiendo de cada experiencia para mejorar mis habilidades. Además, siempre estoy abierta a nuevos conocimientos y oportunidades que me permitan crecer tanto académica como profesionalmente. ¡Espero emocionada lo que el futuro tiene reservado en esta apasionante travesía de la ingeniería de software!</p>
 
 ###
 
